@@ -1,0 +1,48 @@
+.bllok-1 {
+    color: white;
+    float: left;
+    width: 48%;
+    border: 2px solid white;
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin: 5px;
+    position: relative;
+}
+
+.bllok-1 p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding-left: 5px;
+}
+
+.bllok-1 h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.meshum {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.id {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 12px;
+}
+
+.id :hover {
+    color: grey;
+}
+
+.a1 img {
+    height: 120px;
+    margin-left: 15px;
+    float: left;
+    margin-right: 15px;
+}
+
+.Text p {
+    padding: 10px;
+}
